@@ -11,3 +11,5 @@ git log --oneline
 
 git revert
 git reset
+
+git fetch
