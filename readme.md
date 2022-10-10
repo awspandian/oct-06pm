@@ -6,3 +6,5 @@ this is for checking the stash
 
 new commit from develpoer 2
 
+git log
+git log --oneline
