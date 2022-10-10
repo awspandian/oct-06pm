@@ -8,3 +8,5 @@ new commit from develpoer 2
 
 git log
 git log --oneline
+
+git revert
