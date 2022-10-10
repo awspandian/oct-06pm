@@ -10,3 +10,4 @@ git log
 git log --oneline
 
 git revert
+git reset
