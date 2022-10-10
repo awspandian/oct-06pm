@@ -11,3 +11,7 @@ git log --oneline
 
 git revert
 git reset
+
+.gitignore
+
+git tag
